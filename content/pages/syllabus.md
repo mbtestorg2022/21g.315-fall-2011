@@ -58,13 +58,66 @@ Elle est obligatoire, car une grande partie du travail se fera en classe. Pendan
 Notation
 --------
 
-| ACTIVITIES | % FINAL GRADE |
-| --- | --- |
-| Présence, participation active en classe | 30% |
-| Qualité de votre préparation et devoirs écrits | 25% |
-| Présentations orales en classe | 10% |
-| 3 petits tests en classe | 15% |
-| Projet final (présentation 15%+ rapport écrit 5%) | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+% FINAL GRADE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Présence, participation active en classe
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Qualité de votre préparation et devoirs écrits
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Présentations orales en classe
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 petits tests en classe
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Projet final (présentation 15%+ rapport écrit 5%)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Votre note dépendra également des progrès faits au cours du semestre.
 
@@ -84,20 +137,144 @@ Programme du cours
 
 Ce programme vous est donné à titre indicatif et sera modifié si nécessaire au cours du semestre.
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | La France en septembre 2011. De qui et de quoi parlent les médias? |
-| 2 |
-| 3 | Les grands symboles |
-| 4 | Fondation de l'identité culturelle: la famille |
-| 5 | Fondation de l'identité culturelle: l'école |
-| 6 | La religion et la laïcité |
-| 7 | L'immigration |
-| 8 | L'économie, le travail et les loisirs |
-| 9 | Les jeunes |
-| 10 | Les femmes |
-| 11 | Le système judiciaire: droit, loi, justice |
-| 12 | Le système politique: la France et l'Europe |
-| 13 | Travail sur le projet comparatif, présentations |
-| 14 |
-| 15
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+La France en septembre 2011. De qui et de quoi parlent les médias?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Les grands symboles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Fondation de l'identité culturelle: la famille
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Fondation de l'identité culturelle: l'école
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+La religion et la laïcité
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+L'immigration
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+L'économie, le travail et les loisirs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Les jeunes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Les femmes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Le système judiciaire: droit, loi, justice
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Le système politique: la France et l'Europe
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Travail sur le projet comparatif, présentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
