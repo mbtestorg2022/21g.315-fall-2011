@@ -255,7 +255,7 @@ None (holiday)
 {{< tdopen >}}
 
 
-*   Regardez le document suivant: Fourquet, J. "Barométre Jeunesse: Vague 3." IFOP, 2011. Faites le travail indiqué page 2\*. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ifop.com/media/poll/1584-1-study_file.pdf))
+*   Regardez le document suivant: Fourquet, J. "Barométre Jeunesse: Vague 3." IFOP, 2011. Faites le travail indiqué page 2\*. ([PDF](http://www.ifop.com/media/poll/1584-1-study_file.pdf))
 *   _En classe aujourd'hui vous essaierez de préciser votre sujet pour le projet de fin de semestre et de trouver un partenaire_.
 
 

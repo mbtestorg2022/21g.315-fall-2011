@@ -66,7 +66,7 @@ Vompouille, T. "[France: comment est évalué le nombre de musulmans](http://www
 
 de Gaulmyn, I. "[La France reste catholique, mais moins pratiquante](http://www.la-croix.com/Religion/S-informer/Actualite/La-France-reste-catholique-mais-moins-pratiquante-_NG_-2009-12-29-570979)." _La Croix_, 29 décembre, 2009.
 
-Fourquet, J. "Analyse: Le catholicisme en France en 2010." IFOP, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ifop.com/media/pressdocument/238-1-document_file.pdf))
+Fourquet, J. "Analyse: Le catholicisme en France en 2010." IFOP, 2010. ([PDF](http://www.ifop.com/media/pressdocument/238-1-document_file.pdf))
 
 Week #7 — L'immigration
 -----------------------
@@ -111,11 +111,11 @@ Fourquet, J. et F. Dabi. "Les Français et l'interdiction du droit de grève lor
 Week #9 — Les jeunes
 --------------------
 
-Kairos Future. "Les jeunesses face à leur avenir: une enquête internationale." Fondation Pour l'Innovation Politique, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.biop.cci-paris-idf.fr/upload/pdf/Etude-jeunesses-face-avenir.pdf))
+Kairos Future. "Les jeunesses face à leur avenir: une enquête internationale." Fondation Pour l'Innovation Politique, 2008. ([PDF](http://www.biop.cci-paris-idf.fr/upload/pdf/Etude-jeunesses-face-avenir.pdf))
 
 Henig, R. "[What Is It About 20-Somethings?](http://www.nytimes.com/2010/08/22/magazine/22Adulthood-t.html?_r=1&src=me&ref=homepage)" _The New York Times Magazine_, August 18, 2010.
 
-Fourquet, J. "Barométre Jeunesse: Vague 3." IFOP, 2011. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ifop.com/media/poll/1584-1-study_file.pdf))
+Fourquet, J. "Barométre Jeunesse: Vague 3." IFOP, 2011. ([PDF](http://www.ifop.com/media/poll/1584-1-study_file.pdf))
 
 Week #10 — Les femmes
 ---------------------
