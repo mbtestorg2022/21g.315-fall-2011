@@ -5,6 +5,7 @@ description: "This resource contains information related to travail \xE0 faire a
   \ devoirs."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/4451e519aec3fe92aa244233a644d9fd_MIT21G_315F11_hmkwk2.pdf
 file_type: application/pdf
+parent_uid: 4fe3ec42-a76b-7127-8d8a-21355578a611
 resourcetype: Document
 title: Week 2 Homework
 uid: 4451e519-aec3-fe92-aa24-4233a644d9fd

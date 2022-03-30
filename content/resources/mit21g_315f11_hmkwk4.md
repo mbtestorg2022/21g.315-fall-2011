@@ -5,6 +5,7 @@ description: "This resource contains information related to lisez dans Les Fran\
   \ page 2*."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/19f2453b3d84716c28611e46435584e1_MIT21G_315F11_hmkwk4.pdf
 file_type: application/pdf
+parent_uid: 4fe3ec42-a76b-7127-8d8a-21355578a611
 resourcetype: Document
 title: Week 4 Homework
 uid: 19f2453b-3d84-716c-2861-1e46435584e1
